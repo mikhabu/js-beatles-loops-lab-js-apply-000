@@ -4,7 +4,7 @@ function theBeatlesPlay(arrMusician, arrInstrument) {
     let curMusician = arrMusician[i];
     for (let j = 0; j < arrInstrument.length; j++) {
       let curInstrument = arrInstrument[j];
-      newArr.push(`${curMusician} plays ${arrInstr[j]}`);
+      newArr.push(`${curMusician} plays ${curInstrument}`);
     }
   }
   return newArr;
