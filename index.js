@@ -13,7 +13,7 @@ function johnLennonFacts(arr) {
   let i = 0;
   while (i < arr.length) {
     let curFact = arr[i];
-    newArr.push(`${curFact} !!!`;
+    newArr.push(`${curFact}!!!`;
     i++;
   }
   return newArr;
