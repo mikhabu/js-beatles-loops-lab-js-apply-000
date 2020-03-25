@@ -27,4 +27,5 @@ do {
   newArr.push(`I love the Beatles`);
   i += 1;
 } while (i < 15);
+return newArr;
 }
