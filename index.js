@@ -21,11 +21,11 @@ function johnLennonFacts(arr) {
 
 function iLoveTheBeatles(num) {
   let newArr = [];
-  let i = 0;
+  let num = 0;
 
 do {
   newArr.push(`I love the Beatles`);
-  i++;
-} while (i < 15);
+  num++;
+} while (num < 15);
 return newArr;
 }
