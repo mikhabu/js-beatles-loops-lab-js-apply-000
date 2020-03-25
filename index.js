@@ -5,4 +5,5 @@ function theBeatlesPlay(arrMusic, arrInstr) {
       newArr.push(arrMusic[i] + arrInstr[j]);
     }
   }
+  return newArr;
 }
