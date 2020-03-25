@@ -1,3 +1,4 @@
-function theBeatlesPlay(arr1, arr2) {
-  
+function theBeatlesPlay(arrMusic, arrInstr) {
+  let newArr = [];
+  for (let i = 0; i < )
 }
